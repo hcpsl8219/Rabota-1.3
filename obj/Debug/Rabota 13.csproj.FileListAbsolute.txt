@@ -1,0 +1,3 @@
+E:\Работы VS\Rabota 1.3\obj\Debug\Rabota 13.csproj.CoreCompileInputs.cache
+E:\Работы VS\Rabota 1.3\obj\Debug\Rabota 1.3.exe
+E:\Работы VS\Rabota 1.3\obj\Debug\Rabota 1.3.pdb
